@@ -12,3 +12,5 @@ C:\source\ccsharp-client\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.re
 C:\source\ccsharp-client\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
 C:\source\ccsharp-client\HelloWorld\obj\Debug\HelloWorld.exe
 C:\source\ccsharp-client\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\source\ccsharp-client\HelloWorld\obj\Debug\PanelWindow.g.cs
+C:\source\ccsharp-client\HelloWorld\obj\Debug\PanelWindow.baml
