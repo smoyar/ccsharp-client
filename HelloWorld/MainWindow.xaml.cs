@@ -20,6 +20,8 @@ namespace HelloWorld
     /// </summary>
     public partial class MainWindow : Window
     {
+        private Models.User user = new Models.User();
+
         public MainWindow()
         {
             InitializeComponent();
@@ -27,12 +29,21 @@ namespace HelloWorld
 
         private void uxSubmit_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Submitting password:" + uxPassword.Text);
+            MessageBox.Show($"Submitting your password {uxName.Text}: {uxPassword.Password}");
+            var window = new SecondWindow();
+            Application.Current.MainWindow = window;
+            Close();
+            window.Show();
+        }
+        public override void EndInit()
+        {
+            base.EndInit();
+            uxName.DataContext = user;
         }
 
         private void uxSubmit_ContextMenuOpening(object sender, ContextMenuEventArgs e)
         {
-            MessageBox.Show("Submitting password:" + uxPassword.Text);
+            MessageBox.Show($"Submitting your password {uxName.Text}: {uxPassword.Password}");
         }
     }
 }

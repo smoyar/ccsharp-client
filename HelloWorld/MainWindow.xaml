@@ -9,10 +9,14 @@
     <Grid RenderTransformOrigin="0.484,0.741">
         <StackPanel >
             <TextBlock>Enter Name:</TextBlock>
-            <TextBox x:Name="uxName" FontWeight="Bold" FontSize="18" Background="#FFE1F5FF"></TextBox>
+            <TextBox x:Name="uxName" Text="{Binding BindingGroupName, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" FontWeight="Bold" FontSize="18" Background="#FFE1F5FF"></TextBox>
             <TextBlock>Enter Password:</TextBlock>
-            <TextBox x:Name="uxPassword" Background="#FFE8F7D3"></TextBox>
-            <Button x:Name="uxSubmit" Click="uxSubmit_Click" ContextMenuOpening="uxSubmit_ContextMenuOpening">Submit</Button>
+            <PasswordBox x:Name="uxPassword" Background="#FFE8F7D3" Margin="0,0,0,10">
+            </PasswordBox>
+            <Button x:Name="uxSubmit" Click="uxSubmit_Click" ContextMenuOpening="uxSubmit_ContextMenuOpening" Cursor="Hand">
+                <Button.Effect>
+                    <DropShadowEffect Color="#FF3C3C3C"/>
+                </Button.Effect> Submit</Button>
         </StackPanel>
     </Grid>
 </Window>

@@ -1,0 +1,6 @@
+C:\source\ccsharp-client\Generics\bin\Debug\Generics.exe.config
+C:\source\ccsharp-client\Generics\bin\Debug\Generics.exe
+C:\source\ccsharp-client\Generics\bin\Debug\Generics.pdb
+C:\source\ccsharp-client\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\source\ccsharp-client\Generics\obj\Debug\Generics.exe
+C:\source\ccsharp-client\Generics\obj\Debug\Generics.pdb

@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\source\ccsharp-client\HelloWorld\App.xaml
-11151548125
+3-460995979
 
-5-2017746502
+8355944359
 13738642453
-MainWindow.xaml;
+ComboWindow.xaml;MainWindow.xaml;SecondWindow.xaml;
 
-False
+True
 

@@ -1,0 +1,20 @@
+﻿<Window x:Class="PasswordProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PasswordProject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel>
+            <TextBlock x:Name="uxPassword" Text="Password" HorizontalAlignment="Center"/>
+            <PasswordBox Height="41" Width="456" Margin="0,5,0,10" HorizontalAlignment="Center" PasswordChanged="PasswordBox_PasswordChanged" Password="Moya"/>
+            <Button x:Name="uxOK" Height="50" Content="OK" IsEnabled="False" IsEnabledChanged="uxOK_IsEnabledChanged"/>
+            <Button x:Name="uxCancel" Height="50" Margin="0,5,0,0" Content="Cancel"/>
+            <Button HorizontalAlignment="Center" Width="122" Height="40" Margin="0,10,0,0">
+                <CheckBox x:Name="uxShowPassword" HorizontalAlignment="Left" Content="Show Password"/>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>

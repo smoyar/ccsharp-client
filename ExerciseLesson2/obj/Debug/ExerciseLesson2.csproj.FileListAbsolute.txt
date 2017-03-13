@@ -1,0 +1,1 @@
+C:\source\ccsharp-client\ExerciseLesson2\bin\Debug\ExerciseLesson2.exe.config

@@ -23,6 +23,7 @@ namespace homework1
         public MainWindow()
         {
             InitializeComponent();
+            WindowState = WindowState.Maximized;
         }
 
         private void uxSubmit_Click(object sender, RoutedEventArgs e)
