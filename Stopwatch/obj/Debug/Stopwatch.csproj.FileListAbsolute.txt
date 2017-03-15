@@ -1,0 +1,6 @@
+C:\source\ccsharp-client\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\source\ccsharp-client\Stopwatch\bin\Debug\Stopwatch.exe
+C:\source\ccsharp-client\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\source\ccsharp-client\Stopwatch\obj\Debug\Stopwatch.csprojResolveAssemblyReference.cache
+C:\source\ccsharp-client\Stopwatch\obj\Debug\Stopwatch.exe
+C:\source\ccsharp-client\Stopwatch\obj\Debug\Stopwatch.pdb
