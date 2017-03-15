@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -38,6 +39,11 @@ namespace HelloWorld
         public override void EndInit()
         {
             base.EndInit();
+
+            var sample =new SampleEntities();
+            sample.Users.Load();
+            uxList.ItemsSource = sample.Users.Local;
+
             uxName.DataContext = user;
         }
 

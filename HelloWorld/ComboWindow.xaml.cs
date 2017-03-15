@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -25,7 +26,8 @@ namespace HelloWorld
             var sample = new SampleEntities();
             sample.Users.Load();
             uxComboBox.ItemsSource = sample.Users.Local;
-       private void uxComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        }
+        private void uxComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             uxGrid.DataContext = e.AddedItems[0];
         }

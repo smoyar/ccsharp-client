@@ -15,3 +15,9 @@ C:\source\ccsharp-client\HelloWorld\obj\Debug\HelloWorld.pdb
 C:\source\ccsharp-client\HelloWorld\obj\Debug\SecondWindow.g.cs
 C:\source\ccsharp-client\HelloWorld\obj\Debug\SecondWindow.baml
 C:\source\ccsharp-client\HelloWorld\obj\Debug\ComboWindow.g.cs
+C:\source\ccsharp-client\HelloWorld\obj\Debug\HelloWorld_Content.g.cs
+C:\source\ccsharp-client\HelloWorld\bin\Debug\EntityFramework.dll
+C:\source\ccsharp-client\HelloWorld\bin\Debug\EntityFramework.SqlServer.dll
+C:\source\ccsharp-client\HelloWorld\bin\Debug\EntityFramework.xml
+C:\source\ccsharp-client\HelloWorld\bin\Debug\EntityFramework.SqlServer.xml
+C:\source\ccsharp-client\HelloWorld\obj\Debug\ComboWindow.baml
