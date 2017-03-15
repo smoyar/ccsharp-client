@@ -11,15 +11,16 @@ namespace Stopwatch
         static void Main(string[] args)
         {
             var myStopwatch = new Stopwatch();
-
-            /* Console.WriteLine("Please enter to start stopwatch");
-             Console.ReadLine();
-             myStopwatch.Start();
+            var mySecondWatch = new Stopwatch();
 
              Console.WriteLine("Please enter to start stopwatch");
              Console.ReadLine();
              myStopwatch.Start();
-             */
+
+             Console.WriteLine("Please enter to start Second Watch");
+             Console.ReadLine();
+             mySecondWatch.Start();
+            
             Console.WriteLine("Please enter to start stopwatch");
             Console.ReadLine();
             myStopwatch.Start();

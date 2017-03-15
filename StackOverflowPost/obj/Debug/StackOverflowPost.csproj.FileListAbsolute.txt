@@ -1,0 +1,6 @@
+C:\source\ccsharp-client\StackOverflowPost\bin\Debug\StackOverflowPost.exe.config
+C:\source\ccsharp-client\StackOverflowPost\obj\Debug\StackOverflowPost.csprojResolveAssemblyReference.cache
+C:\source\ccsharp-client\StackOverflowPost\bin\Debug\StackOverflowPost.exe
+C:\source\ccsharp-client\StackOverflowPost\bin\Debug\StackOverflowPost.pdb
+C:\source\ccsharp-client\StackOverflowPost\obj\Debug\StackOverflowPost.exe
+C:\source\ccsharp-client\StackOverflowPost\obj\Debug\StackOverflowPost.pdb
