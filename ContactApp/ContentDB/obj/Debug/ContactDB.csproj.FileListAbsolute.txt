@@ -1,0 +1,10 @@
+C:\source\ccsharp-client\ContactApp\ContentDB\bin\Debug\ContactDB.dll.config
+C:\source\ccsharp-client\ContactApp\ContentDB\bin\Debug\ContactDB.dll
+C:\source\ccsharp-client\ContactApp\ContentDB\bin\Debug\ContactDB.pdb
+C:\source\ccsharp-client\ContactApp\ContentDB\bin\Debug\EntityFramework.dll
+C:\source\ccsharp-client\ContactApp\ContentDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\source\ccsharp-client\ContactApp\ContentDB\bin\Debug\EntityFramework.xml
+C:\source\ccsharp-client\ContactApp\ContentDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\source\ccsharp-client\ContactApp\ContentDB\obj\Debug\ContactDB.csprojResolveAssemblyReference.cache
+C:\source\ccsharp-client\ContactApp\ContentDB\obj\Debug\ContactDB.dll
+C:\source\ccsharp-client\ContactApp\ContentDB\obj\Debug\ContactDB.pdb

@@ -1,0 +1,33 @@
+﻿<Window x:Class="InventoryApp.WelcomeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InventoryApp"
+        mc:Ignorable="d"
+        Title="DUSA Inventory Control Software" Height="350" Width="600">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="C:\source\ccsharp-client\InventoryApp\InventoryApp\Images\Bertha3.jpg" Opacity="0.3"/>
+        </Grid.Background>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" FontWeight="Bold" FontStyle="Italic" HorizontalAlignment="Left">Welcome to DUSA Inventory Control</TextBlock>
+        <StackPanel Grid.Row="1">
+            <TextBlock Grid.Row="1" HorizontalAlignment="Center" FontWeight="Bold">User:</TextBlock>
+            <TextBox x:Name="uxUser" Grid.Row="1" Width="300" Background="#FFDFE1FF" HorizontalAlignment="Center" ForceCursor="True"></TextBox>
+            <TextBlock Grid.Row="1" HorizontalAlignment="Center" FontWeight="Bold" Margin="0,15,0,0">Password:</TextBlock>
+            <PasswordBox x:Name="uxPassword" Width="300" Grid.Row="1" Background="#FFDFE1FF" Margin="0,0,0,10" HorizontalAlignment="Center"></PasswordBox>
+        </StackPanel>
+        <DockPanel Grid.Row="2" Margin="0" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button x:Name="uxOKButton" Height="20" Width="60" Margin="10,50,20,0" Click="Button_Click" ForceCursor="True" Cursor="Hand" Background="#FFCACCFF" >OK</Button>
+            <Button x:Name="uxCancelButton" Height="20" Width="60" Margin="10,50,20,0" Click="uxCancelButton_Click" Cursor="Hand" Background="#FFCACCFF">Exit</Button>
+        </DockPanel>
+    </Grid>
+</Window>

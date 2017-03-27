@@ -1,0 +1,12 @@
+C:\source\ccsharp-client\InventoryApp\InventoryRepository\bin\Debug\InventoryRepository.dll.config
+C:\source\ccsharp-client\InventoryApp\InventoryRepository\bin\Debug\InventoryRepository.dll
+C:\source\ccsharp-client\InventoryApp\InventoryRepository\bin\Debug\InventoryRepository.pdb
+C:\source\ccsharp-client\InventoryApp\InventoryRepository\bin\Debug\EntityFramework.dll
+C:\source\ccsharp-client\InventoryApp\InventoryRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\source\ccsharp-client\InventoryApp\InventoryRepository\bin\Debug\InventoryDB.dll
+C:\source\ccsharp-client\InventoryApp\InventoryRepository\bin\Debug\InventoryDB.pdb
+C:\source\ccsharp-client\InventoryApp\InventoryRepository\bin\Debug\EntityFramework.xml
+C:\source\ccsharp-client\InventoryApp\InventoryRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\source\ccsharp-client\InventoryApp\InventoryRepository\obj\Debug\InventoryRepository.csprojResolveAssemblyReference.cache
+C:\source\ccsharp-client\InventoryApp\InventoryRepository\obj\Debug\InventoryRepository.dll
+C:\source\ccsharp-client\InventoryApp\InventoryRepository\obj\Debug\InventoryRepository.pdb

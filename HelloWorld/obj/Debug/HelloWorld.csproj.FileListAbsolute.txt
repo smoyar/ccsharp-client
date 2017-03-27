@@ -21,3 +21,8 @@ C:\source\ccsharp-client\HelloWorld\bin\Debug\EntityFramework.SqlServer.dll
 C:\source\ccsharp-client\HelloWorld\bin\Debug\EntityFramework.xml
 C:\source\ccsharp-client\HelloWorld\bin\Debug\EntityFramework.SqlServer.xml
 C:\source\ccsharp-client\HelloWorld\obj\Debug\ComboWindow.baml
+C:\source\ccsharp-client\HelloWorld\obj\Debug\RGBControl.g.cs
+C:\source\ccsharp-client\HelloWorld\obj\Debug\RGBWindow.g.cs
+C:\source\ccsharp-client\HelloWorld\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\source\ccsharp-client\HelloWorld\obj\Debug\RGBControl.baml
+C:\source\ccsharp-client\HelloWorld\obj\Debug\RGBWindow.baml
