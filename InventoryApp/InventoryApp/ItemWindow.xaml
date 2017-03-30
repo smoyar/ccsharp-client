@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:InventoryApp"
         mc:Ignorable="d"
-        Title="DUSA Inventory Manager" Width="500" Height="320"
+        Title="DUSA Inventory Manager" Width="500" Height="420"
         FocusManager.FocusedElement="{Binding ElementName=uxName}"
         Loaded="Window_Loaded">
 
